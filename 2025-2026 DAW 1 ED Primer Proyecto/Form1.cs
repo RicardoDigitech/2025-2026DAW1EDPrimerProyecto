@@ -16,5 +16,10 @@ namespace _2025_2026_DAW_1_ED_Primer_Proyecto
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
